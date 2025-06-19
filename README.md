@@ -15,3 +15,6 @@ Papers:
 2. INSIGHT: A Survey of In‑Network Systems for Intelligent, High‑Efficiency AI and Topology Optimization - https://arxiv.org/pdf/2505.24269
 3. SuperNIC: A Hardware‑Based, Programmable, and Multi‑Tenant SmartNIC (arXiv 2021) - https://arxiv.org/pdf/2109.07744
 4. LogNIC: A High‑Level Performance Model for SmartNICs (MICRO 2023) - https://utns.cs.utexas.edu/assets/papers/lognic-micro23.pdf
+5. GPUs, CPUs, and… NICs: Rethinking the Network’s Role in Serving Complex AI Pipelines
+6. Survey on SmartNICs/DPU
+7. AI-Native Network Slicing
